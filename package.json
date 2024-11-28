@@ -6,7 +6,9 @@
     "start": "node app.js",
     "dev" : "node --watch app.js",
     "pari_dispari" : "node pari_dispari.js",
-    "pari_dispari_dev" : "node --watch pari_dispari.js"
+    "pari_dispari_dev" : "node --watch pari_dispari.js",
+    "conta_vocali" : "node conta_vocali.js",
+    "conta_vocali_dev" : "node --watch conta_vocali.js"
   },
   "author": "",
   "license": "ISC",
